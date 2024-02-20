@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "peyda";
+  src: url("./fonts/peyda/Peyda-Regular\(@vieratec\).ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "peyda";
+  src: url("./fonts/peyda/Peyda-Bold\(@vieratec\).ttf");
+  font-weight: 1000;
+  font-style: normal;
+}
+
+* {
+  direction: rtl !important;
+}
+
+p {
+  font-family: "peyda";
+}
